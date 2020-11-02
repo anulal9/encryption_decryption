@@ -88,5 +88,11 @@ def exhaustive_key_search(encrypted_text):
     return key_to_code
 
 
+
+
+
+
+
+
 if __name__ == '__main__':
-    print(exhaustive_key_search('BEEAKFYDJXUQYHYJIQRYHTYJIQFBQDUYJIIKFUHCQD'.lower()))
+    print(decrypt_auto_key('xcstritg','fnothing'))
